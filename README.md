@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IsaacAmorteg
 - 👀 I’m interested in so many things, I'll need another Readme for that :D
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning Java and will speciallize in QA Software Test Automation 
 
-- 💞️ Do you want to invest in a future Full Stack Web Developer? Reach out to me :)
+- 📫 For more info reach me at isaacamortegc@outlook.com // LinkedIn: Isaac Amortegui
 
-- 📫 Please reach me at isaacamortegc@outlook.com // LinkedIn: Isaac Amortegui
